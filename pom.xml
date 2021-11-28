@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fcu.sep</groupId>
-	<artifactId>fcushop</artifactId>
+	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fcushop</name>
+	<name>demo</name>
 	<description>Demo project for the course of software engineering practices</description>
 	<properties>
 		<java.version>11</java.version>
